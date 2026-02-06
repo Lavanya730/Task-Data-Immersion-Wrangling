@@ -1,0 +1,16 @@
+﻿order_id,order_date,customer_id,customer_name,dob,gender,product,category,price,quantity,city
+1001,10-01-2024,C001,Ravi Kumar,12-06-1995,M,Mobile,Electronics,15000,1,Hyderabad
+1002,11-01-2024,C002,Sneha Reddy,25-09-1998,F,Laptop,Electronics,55000,1,Bangalore
+1003,12-01-2024,C003,Arjun Rao,,M,Headphones,Electronics,2000,2,Chennai
+1004,12-01-2024,C003,Arjun Rao,,M,Headphones,Electronics,2000,2,Chennai
+1005,12-01-2024,C004,Meena Das,10-02-1988,F,Chair,Furniture,3500,1,Kolkata
+1006,14-01-2024,C005,Karthik S,05-11-1992,M,Table,Furniture,,1,Hyderabad
+1007,15-01-2024,C006,Anjali Sharma,18-03-2000,F,Shoes,Fashion,2500,2,Delhi
+1008,15-01-2024,C007,Rohit Verma,22-07-1990,M,T-Shirt,Fashion,800,3,Mumbai
+1009,16-01-2024,C008,Pooja Nair,30-01-1996,F,Watch,Accessories,4200,1,Kochi
+1010,17-01-2024,C009,Amit Shah,15-04-1985,M,Sofa,Furniture,28000,1,Ahmedabad
+1011,17-01-2024,C010,Neha Jain,05-12-1999,F,Bag,Accessories,1800,2,Jaipur
+1012,18-01-2024,C011,Suresh Babu,09-08-1987,M,Refrigerator,Electronics,32000,1,Vijayawada
+1013,18-01-2024,C012,Divya Singh,,F,Heels,Fashion,2700,1,Lucknow
+1014,19-01-2024,C013,Manoj Patil,22-03-1993,M,Microwave,Electronics,12000,1,Pune
+1015,19-01-2024,C014,Kavya Rao,11-07-2001,F,Earrings,Accessories,,2,Hyderabad
